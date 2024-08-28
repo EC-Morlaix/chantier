@@ -1,2 +1,2 @@
-# chantier
-Site de ressources  informatiques de l'ECA.M
+# info
+Site de ressources en informatique pour l'ENT de l'ensemble scolaire EC@M
